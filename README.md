@@ -1,2 +1,2 @@
 # first
-first project
+Python Basics challenges
